@@ -24,8 +24,8 @@
 }
 
 .nav__logo {
-width: 58px;
-height: 80px;
+  width: 58px;
+  height: 80px;
 }
 
 .nav__links {
@@ -40,7 +40,6 @@ height: 80px;
   color: #000000;
   text-decoration: none;
   font-weight: bold;
-
 }
 
 .header__content {
@@ -49,18 +48,18 @@ height: 80px;
 }
 
 .header__title {
-font-size: 62px;
-line-height: 76px;
-font-weight: 500;
-max-width: 635px;
-margin-top: 128px;
+  font-size: 62px;
+  line-height: 76px;
+  font-weight: 500;
+  max-width: 635px;
+  margin-top: 128px;
 }
 
 .header__description {
-font-size: 20px;
-line-height: 30px;
-max-width: 515px;
-margin-top: 32px;
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 515px;
+  margin-top: 32px;
 }
 
 .header__image {
@@ -88,7 +87,6 @@ margin-top: 32px;
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
   padding: 100px 0 140px;
-
 }
 
 .staff__title {
@@ -119,8 +117,6 @@ margin-top: 32px;
   padding-left: 0;
   margin-top: 68px;
   margin-bottom: 0;
-  list-style-type: none;
-  padding-left: 0%;
 }
 
 .card {
