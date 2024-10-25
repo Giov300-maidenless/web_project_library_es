@@ -106,7 +106,7 @@
   margin: 0;
   color: #ffffff;
 }
-.staff__card {
+.staff__cards {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
