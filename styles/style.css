@@ -344,15 +344,15 @@
 
 .footer__column_content_hours {
   margin-left: auto;
-  margin-right: 80px;
 }
 
 .footer__column_content_social {
+  margin-left: 80px;
 }
 
 .footer__logo {
-  height: 58px;
-  width: 80px;
+  height: 80px;
+  width: 58px;
 }
 
 .footer__column-heading {
@@ -373,12 +373,12 @@
 .footer__column-link {
   color: white;
   text-decoration: none;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
   height: 16px;
   width: 16px;
-  margin-right: 10px;
 }
 
 .footer__copyright {
