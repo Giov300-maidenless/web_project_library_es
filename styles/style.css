@@ -374,6 +374,8 @@
   color: white;
   text-decoration: none;
   column-gap: 10px;
+  display: flex;
+  align-items: center;
 }
 
 .footer__social-icon {
